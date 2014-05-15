@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30110.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selfhost", "Selfhost\Selfhost.csproj", "{87496982-0796-4FA3-9458-B2D0D94C9CE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer2", "Timer2\Timer2.csproj", "{3BE84283-D87E-44E7-94DB-91192B052925}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{87496982-0796-4FA3-9458-B2D0D94C9CE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87496982-0796-4FA3-9458-B2D0D94C9CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{87496982-0796-4FA3-9458-B2D0D94C9CE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE84283-D87E-44E7-94DB-91192B052925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE84283-D87E-44E7-94DB-91192B052925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE84283-D87E-44E7-94DB-91192B052925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE84283-D87E-44E7-94DB-91192B052925}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
